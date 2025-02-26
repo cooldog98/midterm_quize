@@ -1,0 +1,25 @@
+Cube with side 2.00m, volume: 8.00m3
+Cube with side 5.00cm, volume: 125.00cm3
+====================
+Cubes:
+No cubes available
+Cubes:
+1. Cube with side 2.00m, volume: 8.00m3
+2. Cube with side 5.00cm, volume: 125.00cm3
+====================
+Spheres:
+1. Sphere with radius 1.00m, volume: 4.19m3
+2. Sphere with radius 3.00cm, volume: 113.10cm3
+3. Sphere with radius 23.50cm, volume: 54361.60cm3
+Sphere with radius 99.90m, volume: 4176236.40m3
+====================
+All Shapes Information:
+Cubes:
+1. Cube with side 2.00m, volume: 8.00m3
+2. Cube with side 5.00cm, volume: 125.00cm3
+Spheres:
+1. Sphere with radius 1.00m, volume: 4.19m3
+2. Sphere with radius 3.00cm, volume: 113.10cm3
+3. Sphere with radius 23.50cm, volume: 54361.60cm3
+Total volume in cubic meters: 12.24 m3
+Total volume in cubic centimeters: 12243389.90 cm3

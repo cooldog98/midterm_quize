@@ -1,0 +1,7 @@
+<class 'ValueError'>
+The values are invalid
+<class 'ValueError'>
+The values are invalid
+<class 'ValueError'>
+Type does not match
+1000.0
